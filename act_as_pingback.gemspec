@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = ActAsPingback::VERSION
   spec.authors     = ["Myk Klemme"]
   spec.email       = ["mykklemme@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of ActAsPingback."
-  spec.description = "TODO: Description of ActAsPingback."
+  spec.homepage    = "https://github.com/invisiblehats/act_as_pingback"
+  spec.summary     = "A rails engine for publishing updates to pingback.democracy.news"
+  spec.description = "A rails engine for publishing updates to pingback.democracy.news"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
