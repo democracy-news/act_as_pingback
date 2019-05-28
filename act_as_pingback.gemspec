@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = ActAsPingback::VERSION
   spec.authors     = ["Myk Klemme"]
   spec.email       = ["mykklemme@gmail.com"]
-  spec.homepage    = "https://github.com/invisiblehats/act_as_pingback"
+  spec.homepage    = "https://github.com/democracy-news/act_as_pingback"
   spec.summary     = "A rails engine for publishing updates to pingback.democracy.news"
   spec.description = "A rails engine for publishing updates to pingback.democracy.news"
   spec.license     = "MIT"
